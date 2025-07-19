@@ -40,7 +40,7 @@ This is a Realtime Collaborative Editor built using the MERN stack (MongoDB, Exp
 
 # Screenshots
 ## HomePage
-<img width="1390" height="673" alt="image" src="https://github.com/user-attachments/assets/9de5d614-d498-4305-a319-d66de22cbfde" />
+<img width="1651" height="733" alt="Screenshot 2025-07-19 172339" src="https://github.com/user-attachments/assets/8031d73e-5f6f-4e9e-9397-660fa1bd24df" />
 
 ## Whiteboard
 <img width="1868" height="806" alt="image" src="https://github.com/user-attachments/assets/5427aa91-0973-47f4-b59a-2c5208e9883e" />
